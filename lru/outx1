@@ -1,0 +1,2 @@
+g++    -c -o lru.o lru.cc
+g++ -o lru lru.cc
